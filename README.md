@@ -12,3 +12,5 @@
 3、微服务独立配置文件中有与application.properties文件中重合的key, 则读取到的value是微独立配置的值。
 
 4、新添加内容-测试git命令
+
+5、通过ssh方式提交代码
